@@ -1,0 +1,39 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    background-color: black;
+}
+
+div{
+    background-color: #ffffff;
+    height: 90%;
+    color: black;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+header{
+    background-color: rgb(1, 0, 89);
+    height: 25%;
+    color: white
+}
+#link{
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#github{
+    color: red;
+    margin-bottom: 10px;
+}
+
+button{
+    margin-top: 20%;
+    border-color: ash;
+    font-size: 30px;
+    background-color: transparent
+}
+
